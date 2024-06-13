@@ -1,0 +1,31 @@
+body {
+  margin: 0px;
+}
+.container {
+  display: flex;
+  display: inline-block;
+}
+.container:hover {
+  cursor: pointer;
+}
+#about {
+  margin: 10px 0px 0px 10px;
+  display: inline-block;
+}
+#store {
+  margin: 10px 0px 0px 10px;
+  display: inline-block;
+}
+.container2 {
+  display: flex;
+  float: right;
+}
+.container2:hover {
+  cursor: pointer;
+}
+#mail {
+  margin: 10px 0px 0px 10px;
+}
+#image {
+  margin: 10px 0px 0px 10px;
+}
